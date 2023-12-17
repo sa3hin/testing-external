@@ -1,5 +1,6 @@
 {
     "name": "testing-external/dependency",
+    "version": "1.0.0",
     "description": "PHP Package Test",
     "type": "library",
     "license": "MIT",
