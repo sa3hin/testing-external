@@ -8,5 +8,7 @@
         {
             "name": "sa3hin"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
